@@ -1,10 +1,3 @@
-/*
-
-		considerare possibili memory leaks in var json rigo 95 (dentro callback)
-		rivedere le corrispondenti closures
-
-*/
-
 
 		//dependencies	 
  		var crypto  = require('crypto'),
