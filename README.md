@@ -1,6 +1,6 @@
 # theRock_v1.js
 
-Simple API wrapper for the v1 API of <a href="https://www.therocktrading.com">www.therocktrading.com</a>. Refer to 
+Unofficial API wrapper for the v1 API of <a href="https://www.therocktrading.com">www.therocktrading.com</a>. Refer to 
 the <a href="https://api.therocktrading.com/doc/v1/index.html">official documentation</a> for an explanation of each api call.
 
 Tips are very much appreciated: 18s8sDkWsnp9F91CaGpb8o4SoRKT351iRW
